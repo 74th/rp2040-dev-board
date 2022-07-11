@@ -5,6 +5,8 @@
 - 回路図 [./semantics.pdf](./semantics.pdf)
 - PCB [./pcb.pdf](./pcb.pdf)
 
+発注用ガーバーファイルは [release page](https://github.com/74th/rp2040-dev-board/releases) を確認ください。
+
 ## 部品表
 
 | Item | Qty | Reference(s)                         | Value             | LibPart                            | Footprint                                             | Datasheet                                                                        |
