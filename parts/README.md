@@ -1,0 +1,27 @@
+# 部品の調達先
+
+- RP2040
+  - PIMORONI https://shop.pimoroni.com/products/rp2040?variant=39345229299795
+  - スイッチサイエンス https://shop.pimoroni.com/products/rp2040?variant=39345229299795
+  - マルツオンライン https://www.marutsu.co.jp/pc/i/2230443/
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gI-17056/
+- SPI FLASH W25Q32JV
+  - AliExpress https://ja.aliexpress.com/item/32727772232.html
+  - マルツオンライン https://www.marutsu.co.jp/pc/i/29020236/
+- 0805/2012 レジスタ
+  - AliExpress https://ja.aliexpress.com/item/1005001794062302.html
+  - マルツオンライン https://www.marutsu.co.jp/pc/i/856912/
+- 0805/2102 キャパシタ
+  - AliExpress https://ja.aliexpress.com/item/32964553793.html
+  - 秋月電子通商 https://akizukidenshi.com/catalog/contents2/capnavi.aspx
+- 3225 クリスタル 12MHz
+  - AliExpress https://ja.aliexpress.com/item/1005002359133404.html
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-05225/
+- SOT-223 3.3V レギュレータ AMS1117
+  - AliExpress https://ja.aliexpress.com/item/4000187767118.html
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gI-11194/
+- スイッチ
+  - AliExpress https://ja.aliexpress.com/item/4000555847543.html
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-06185/
+- USB ソケット
+  - AliExpress https://ja.aliexpress.com/item/32998900371.html

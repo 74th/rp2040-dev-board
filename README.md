@@ -2,6 +2,7 @@
 
 - [Raspberry PI PICO と同じピン配置で、Flush のサイズを変えたいために、作った開発ボード rp2040 large board](./rp2040-large/)
 - [ProMicro ピンアウト開発ボード rp2040 pro micro](./rp2040-promicro/)
+- [部品の調達先](./parts/)
 
 ## 使用し、取り込んでいる Kicad ライブラリ
 
