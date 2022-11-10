@@ -14,6 +14,7 @@
 - 0805/2102 キャパシタ
   - AliExpress https://ja.aliexpress.com/item/32964553793.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/contents2/capnavi.aspx
+  - マルツオンライン https://www.marutsu.co.jp/RatedList.jsp?goodsClassCode1=16&goodsClassCode2=0039&goodsClassCode3=0006&rv13=0805%EF%BC%882012%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E6%B3%95%EF%BC%89&shopNo=3
 - 3225 クリスタル 12MHz
   - AliExpress https://ja.aliexpress.com/item/1005002359133404.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-05225/
@@ -25,3 +26,4 @@
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-06185/
 - USB ソケット
   - AliExpress https://ja.aliexpress.com/item/32998900371.html
+  - マルツオンライン https://www.marutsu.co.jp/pc/i/40730718/
