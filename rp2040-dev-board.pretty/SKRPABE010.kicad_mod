@@ -1,6 +1,6 @@
 (footprint "SKRPABE010" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
+  (tedit 63B190B5)
   (attr smd)
   (fp_text reference "REF**" (at 0.254 -4.294 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -15,4 +15,9 @@
   (pad "1" smd roundrect (at -2.325 -1.075) (size 1.55 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cbf7cd27-f7d1-4a00-be43-a0ddbba743f7))
   (pad "2" smd roundrect (at 2.325 1.075) (size 1.55 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9080c6ed-cc23-41ae-8a82-507e415f6055))
   (pad "2" smd roundrect (at -2.325 1.075) (size 1.55 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9e8b3445-e0b8-49d8-849c-09e12ac63f93))
+  (model "${HOME}/ghq/github.com/74th/my-kicad-parts/footprints/SKRPABE010.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
