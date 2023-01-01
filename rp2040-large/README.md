@@ -8,8 +8,8 @@ Raspberry Pi PICO と同じピンレイアウトで、Flash を好きなサイ�
 
 BOOT スイッチはなく、ピンヘッダを実装し、ジャンパをかぶせてスイッチの代わりとします。
 
-- [回路図](./rp2040-large-semantics.pdf)
-- [PCB](./rp2040-large-pcb.pdf)
+- [回路図 v1.4.0](./rp2040-large-semantics-1.4.0.pdf)
+- [PCB v1.4.0](./rp2040-large-pcb-1.4.0.pdf)
 
 ![](./photo1.png)
 
