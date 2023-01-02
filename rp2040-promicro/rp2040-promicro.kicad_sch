@@ -2230,7 +2230,7 @@
     (property "Value" "W25Q128JVS" (id 1) (at 201.4094 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" (id 2) (at 199.39 91.44 0)
+    (property "Footprint" "$74th:W25Q16-128JV-SOIC" (id 2) (at 199.39 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf" (id 3) (at 199.39 91.44 0)
@@ -3280,7 +3280,7 @@
       (reference "U1") (unit 1) (value "RP2040") (footprint "rp2040-dev-board:RP2040_hand")
     )
     (path "/3adb8733-e6c3-4881-a255-9c7f78952e3e"
-      (reference "U2") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+      (reference "U2") (unit 1) (value "W25Q128JVS") (footprint "$74th:W25Q16-128JV-SOIC")
     )
     (path "/a42a968a-2172-48a4-b850-dbe3a7175592"
       (reference "U3") (unit 1) (value "AZ1117-3.3") (footprint "$74th:Regulator_AMS1117_SOT-89")
