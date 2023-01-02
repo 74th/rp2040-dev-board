@@ -2,12 +2,41 @@
 
 ![rp2040-promicro.jpeg](rp2040-promicro.jpeg)
 
-- 回路図 [./semantics.pdf](./semantics.pdf)
-- PCB [./pcb.pdf](./pcb.pdf)
-
 発注用ガーバーファイルは [release page](https://github.com/74th/rp2040-dev-board/releases) を確認ください。
 
-## 部品表
+## v2.0.0
+
+- 回路図 [rp2040-promicro-v2.0.0-semantics.pdf](rp2040-promicro-v2.0.0-semantics.pdf)
+- PCB [rp2040-promicro-v2.0.0-pcb.pdf](rp2040-promicro-v2.0.0-pcb.pdf)
+
+### 部品表
+
+| Designator                      | Parts                             | Quantity |
+| ------------------------------- | --------------------------------- | -------- |
+| R1, R2                          | 0805 レジスタ 27.4R               | 2        |
+| R3, R7, R8                      | 0805 レジスタ 1kR                 | 3        |
+| R4, R5                          | 0805 レジスタ 5.1kR               | 2        |
+| R6                              | 0805 レジスタ 10kR                | 1        |
+| C1, C2, C6, C7, C8, C9,C10, C13 | 0805 キャパシタ 100nF             | 8        |
+| C11, C12                        | 0805 キャパシタ 27pF              | 2        |
+| C14, C15                        | 0805 キャパシタ 10uF              | 2        |
+| C3, C5                          | 0805 キャパシタ 1uF               | 2        |
+| F1                              | リセッタブルフィーズ KT6-1100SMDI | 1        |
+| J1                              | USB Type-C ソケット               | 1        |
+| J2                              | ピンヘッダー(ProMicro Left)       | 1        |
+| J3                              | ピンヘッダー(ProMicro Left)       | 1        |
+| SW1                             | SKRPABE010                        | 1        |
+| U1                              | MCU RP2040                        | 1        |
+| U2                              | FLASH W25Q32JVS                   | 1        |
+| U3                              | レギュレータ AMS1117(SOT-89)      | 1        |
+| Y1                              | クリスタル 24MHz 3225             | 1        |
+
+## v1.1.0
+
+- 回路図 [rp2040-promicro-v1.1.0-semantics.pdf](rp2040-promicro-v1.1.0-semantics.pdf)
+- PCB [rp2040-promicro-v1.1.0-pcb.pdf](rp2040-promicro-v1.1.0-pcb.pdf)
+
+### 部品表
 
 | Item | Qty | Reference(s)                         | Value             | LibPart                            | Footprint                                             | Datasheet                                                                        |
 | ---- | --- | ------------------------------------ | ----------------- | ---------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------- |
