@@ -254,6 +254,9 @@
     (property "Datasheet" "" (id 3) (at -19.05 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MPN" "C2040" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)))
+    )
     (symbol "RP2040_0_0"
       (text "Raspberry Pi" (at 0 5.08 0)
         (effects (font (size 2.54 2.54)))
