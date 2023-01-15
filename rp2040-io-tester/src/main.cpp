@@ -7,7 +7,7 @@ int pin_value[29];
 void setup()
 {
   stdio_init_all();
-  for (int pin = 0; pin < 29; pin++)
+  for (int pin = 0; pin < 30; pin++)
   {
     pinMode(pin, INPUT_PULLUP);
     pin_value[pin] = HIGH;
@@ -16,7 +16,7 @@ void setup()
 
 void loop()
 {
-  for (int pin = 0; pin < 29; pin++)
+  for (int pin = 0; pin < 30; pin++)
   {
     int v = digitalRead(pin);
     if (pin_value[pin] != v)
