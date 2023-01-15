@@ -2,7 +2,7 @@
 
 - RP2040
   - PIMORONI https://shop.pimoroni.com/products/rp2040?variant=39345229299795
-  - スイッチサイエンス https://shop.pimoroni.com/products/rp2040?variant=39345229299795
+  - スイッチサイエンス https://www.switch-science.com/products/7173
   - マルツオンライン https://www.marutsu.co.jp/pc/i/2230443/
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/gI-17056/
 - SPI FLASH W25Q32JV
