@@ -4,11 +4,11 @@
 
 ## v2.0.0
 
-![Alt text](rp2040-promicro1-v2.0.0.jpg)
+![Alt text](rp-promicro1-v2.0.0.jpg)
 
-![Alt text](rp2040-promicro2-v2.0.0.jpg)
+![Alt text](rp-promicro2-v2.0.0.jpg)
 
-![Alt text](rp2040-promicro3-v2.0.0.jpg)
+![Alt text](rp-promicro3-v2.0.0.jpg)
 
 ![Alt text](rp-promicro-v2.0.0-pinout.png)
 
