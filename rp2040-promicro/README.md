@@ -1,11 +1,18 @@
 # RP2040 Pro Micro ピンアウト開発ボード
 
-![rp2040-promicro.jpeg](rp2040-promicro.jpeg)
-
 発注用ガーバーファイルは [release page](https://github.com/74th/rp2040-dev-board/releases) を確認ください。
 
 ## v2.0.0
 
+![Alt text](rp2040-promicro1-v2.0.0.jpg)
+
+![Alt text](rp2040-promicro2-v2.0.0.jpg)
+
+![Alt text](rp2040-promicro3-v2.0.0.jpg)
+
+![Alt text](rp-promicro-v2.0.0-pinout.png)
+
+- Booth キット販売ページ [https://74th.booth.pm/items/4492441](https://74th.booth.pm/items/4492441)
 - 回路図 [rp2040-promicro-v2.0.0-semantics.pdf](rp2040-promicro-v2.0.0-semantics.pdf)
 - PCB [rp2040-promicro-v2.0.0-pcb.pdf](rp2040-promicro-v2.0.0-pcb.pdf)
 
