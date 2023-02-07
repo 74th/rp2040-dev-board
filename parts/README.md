@@ -25,18 +25,25 @@
   - AliExpress https://ja.aliexpress.com/item/1005002359133404.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-05225/
   - LCSC https://www.lcsc.com/product-detail/Crystals_Yangxing-Tech-X322512MSB4SI_C9002.html など
-- SOT-223 3.3V レギュレータ AMS1117
+- SOT-223 3.3V レギュレータ AMS1117（Pico 型、ProMicro 型 1.1.0 以前）
   - AliExpress https://ja.aliexpress.com/item/4000187767118.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/gI-11194/
+  - LCSC https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_MSKSEMI-AMS1117-3-3V_C5120796.html
+- SOT-89 3.3V レギュレータ AMS1117（ProMicro 型 2.0.0 以降）
+  - マルツオンライン https://www.marutsu.co.jp/pc/i/15685944/
+  - Aliexpress https://ja.aliexpress.com/item/1005002037850116.html
   - LCSC https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_MSKSEMI-AMS1117-3-3V_C5120796.html
 - スイッチ
   - AliExpress https://ja.aliexpress.com/item/4000555847543.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-06185/
   - LCSC https://www.lcsc.com/product-detail/Tactile-Switches_C-K-PTS815SJM250SMTRLFS_C2689510.html
-- USB ソケット ミッドマウントタイプ（Pico 型、ProMicro 型 1.1.0 以前）
+- USB Type-C ソケット ミッドマウントタイプ（Pico 型、ProMicro 型 1.1.0 以前）
   - AliExpress https://ja.aliexpress.com/item/32998900371.html
   - マルツオンライン https://www.marutsu.co.jp/pc/i/40730718/
   - LCSC https://www.lcsc.com/product-detail/USB-Connectors_SOFNG-MC-314C-4P16_C428463.html
-- USB ソケット 表面実装タイプ（ProMicro 型 2.0.0 以降）
+- USB Type-C ソケット 表面実装タイプ（ProMicro 型 2.0.0 以降）
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/gC-14356/
   - LCSC https://www.lcsc.com/product-detail/USB-Connectors_SHOU-HAN-TYPE-C-16PIN-2MD-073_C2765186.html
+- 1812 6V 1.1A リセッタブルヒューズ
+  - マルツオンライン https://www.marutsu.co.jp/pc/i/35540640/
+  - LCSC https://www.lcsc.com/product-detail/Resettable-Fuses_BOURNS-MF-MSMF110-16-2_C210834.html
