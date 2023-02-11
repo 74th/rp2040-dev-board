@@ -46,6 +46,7 @@
   - ☆ AliExpress https://ja.aliexpress.com/item/4000555847543.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-06185/
   - LCSC https://www.lcsc.com/product-detail/Tactile-Switches_C-K-PTS815SJM250SMTRLFS_C2689510.html
+  - ☆ TaoBao https://item.taobao.com/item.htm?id=618991813706
 - USB Type-C ソケット ミッドマウントタイプ（Pico 型、ProMicro 型 1.1.0 以前）
   - ☆ AliExpress https://ja.aliexpress.com/item/32998900371.html
   - マルツオンライン https://www.marutsu.co.jp/pc/i/40730718/
