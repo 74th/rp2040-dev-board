@@ -38,6 +38,7 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 | U3                         | AMS 1117-3.3V                       |       | 1   |
 | P1                         | USB 2.0 Type-C MidMount Socket      |       | 1   |
 | Y1                         | 3325mm SMD Quartz Resonator Crystal | 12MHz | 1   |
+| SW1,SW2                    | 3x4x2.5mm SMD Tactile Switch        |       | 2   |
 
 ### v1.3.1
 
