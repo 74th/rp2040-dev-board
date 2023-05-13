@@ -28,7 +28,7 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 | C11,C12                    | 0603in 1608mm SMD Capacitor         | 27pF  | 2   |
 | C14,C15                    | 0805in 2012mm SMD Capacitor         | 10uF  | 2   |
 | R1,R2                      | 0805in 2012mm SMD Register          | 27.4R | 2   |
-| R3,R6,R7                   | 0805in 2012mm SMD Register          | 1kR   | 2   |
+| R3,R6,R7                   | 0805in 2012mm SMD Register          | 1kR   | 3   |
 | R4,R5                      | 0805in 2012mm SMD Register          | 5.1kR | 2   |
 | R8                         | 0805in 2012mm SMD Register          | 10kR  | 1   |
 | R9                         | 0805in 2012mm SMD Register          | 200R  | 1   |
