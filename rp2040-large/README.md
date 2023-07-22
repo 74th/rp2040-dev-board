@@ -6,9 +6,6 @@ Raspberry Pi PICO と同じピンレイアウトで、Flash を好きなサイ�
 
 RP2040 の実装の際には、細く切ったマスキングテープを使って位置合わせをしてから、実装すると成功率が上がります。
 
-- [回路図 v1.4.0](./rp2040-large-semantics-1.4.0.pdf)
-- [PCB v1.4.0](./rp2040-large-pcb-1.4.0.pdf)
-
 ![](./photo1.png)
 
 ![](./photo2.png)
@@ -17,9 +14,10 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 
 ![](./photo4.png)
 
-## 部品リスト
+## v1.4.0
 
-### v1.4.0
+- 回路図 [PDF](./rp2040-large-semantics-1.4.0.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2Fv1.4.0%2Frp2040-large%2Frp2040-large.kicad_sch)
+- PCB [PDF](./rp2040-large-pcb-1.4.0.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2Fv1.4.0%2Frp2040-large%2Frp2040-large.kicad_pcb)
 
 | ID                         | package                             | Value | Num |
 | -------------------------- | ----------------------------------- | ----- | --- |
@@ -40,7 +38,7 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 | Y1                         | 3325mm SMD Quartz Resonator Crystal | 12MHz | 1   |
 | SW1,SW2                    | 3x4x2.5mm SMD Tactile Switch        |       | 2   |
 
-### v1.3.1
+## v1.3.1
 
 | ID                         | package                             | Value | Num |
 | -------------------------- | ----------------------------------- | ----- | --- |

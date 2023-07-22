@@ -2,8 +2,6 @@
 
 発注用ガーバーファイルは [release page](https://github.com/74th/rp2040-dev-board/releases) を確認ください。
 
-## v2.0.0
-
 ![Alt text](rp-promicro1-v2.0.0.jpg)
 
 ![Alt text](rp-promicro2-v2.0.0.jpg)
@@ -13,10 +11,11 @@
 ![Alt text](rp-promicro-v2.0.0-pinout.png)
 
 - Booth キット販売ページ [https://74th.booth.pm/items/4492441](https://74th.booth.pm/items/4492441)
-- 回路図 [rp2040-promicro-v2.0.0-semantics.pdf](rp2040-promicro-v2.0.0-semantics.pdf)
-- PCB [rp2040-promicro-v2.0.0-pcb.pdf](rp2040-promicro-v2.0.0-pcb.pdf)
 
-### 部品表
+## v2.0.0 - 2.0.1
+
+- 回路図: [PDF](rp2040-promicro-v2.0.0-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-promicro%2F2.0.1%2Frp2040-promicro%2Frp2040-promicro.kicad_sch)
+- PCB [PDF](rp2040-promicro-v2.0.0-pcb.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-promicro%2F2.0.1%2Frp2040-promicro%2Frp2040-promicro.kicad_pcb)
 
 | Designator                      | Parts                             | Quantity |
 | ------------------------------- | --------------------------------- | -------- |
