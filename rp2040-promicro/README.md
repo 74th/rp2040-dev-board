@@ -2,7 +2,9 @@
 
 発注用ガーバーファイルは [release page](https://github.com/74th/rp2040-dev-board/releases) を確認ください。
 
-<img src="rp-promicro1-v2.0.0.jpg" width="24.5%" /> <img src="rp-promicro2-v2.0.0.jpg" width="24.5%" /> <img src="rp-promicro3-v2.0.0.jpg" width="24.5%" /> <img src="rp-promicro-v2.0.0-pinout.png" width="24.5%" />
+<img src="rp-promicro1-v2.0.0.jpg" width="33%" /> <img src="rp-promicro2-v2.0.0.jpg" width="33%" /> <img src="rp-promicro3-v2.0.0.jpg" width="33%" />
+
+<img src="rp-promicro-v2.0.0-pinout.png" />
 
 - Booth キット販売ページ [https://74th.booth.pm/items/4492441](https://74th.booth.pm/items/4492441)
 
