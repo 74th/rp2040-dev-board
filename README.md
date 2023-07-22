@@ -1,6 +1,6 @@
 # 74th が RP2040 を手ではんだ付けしてみたくて作った開発ボード
 
-<img src="./rp2040-large/photo1.png" width=30%" /> <img src="./rp2040-promicro/rp-promicro1-v2.0.0.jpg" width=30%" />
+<img src="./rp2040-large/photo1.png" width="30%" /> <img src="./rp2040-promicro/rp-promicro1-v2.0.0.jpg" width="30%" />
 
 - [Raspberry PI PICO と同じピン配置で、Flush のサイズを変えたいために、作った開発ボード rp2040 large board](./rp2040-large/)
 - [ProMicro ピンアウト開発ボード rp2040 pro micro](./rp2040-promicro/)
