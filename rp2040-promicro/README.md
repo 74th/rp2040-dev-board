@@ -15,16 +15,16 @@
 
 | Reference      | Name                                | Quantity |
 | -------------- | ----------------------------------- | -------- |
-| C1, C4, C7-C12 | Capacitor 0805 100nFF               | 8        |
-| C2, C3         | Capacitor 0805 10uFF                | 2        |
-| C5, C6         | Capacitor 0805 1uFF                 | 2        |
-| C13, C14       | Capacitor 0805 27pFF                | 2        |
+| C1, C4, C7-C12 | Capacitor 0805 100nF                | 8        |
+| C2, C3         | Capacitor 0805 10uF                 | 2        |
+| C5, C6         | Capacitor 0805 1uF                  | 2        |
+| C13, C14       | Capacitor 0805 27pF                 | 2        |
 | F1             | PolyFuse 1812 KT6-1100SMDI          | 1        |
 | J1             | USB Type-C Receptacle - USB2.0_C_v3 | 1        |
-| R1, R4, R5     | Register 0805 1kRΩ                  | 3        |
-| R2, R3         | Register 0805 5.1kRΩ                | 2        |
-| R6             | Register 0805 10kRΩ                 | 1        |
-| R7, R8         | Register 0805 27.4RΩ                | 2        |
+| R1, R4, R5     | Register 0805 1kΩ                   | 3        |
+| R2, R3         | Register 0805 5.1kΩ                 | 2        |
+| R6             | Register 0805 10kΩ                  | 1        |
+| R7, R8         | Register 0805 27.4Ω                 | 2        |
 | SW1            | Button SKRPABE010                   | 1        |
 | U1             | Regulator 3.3V SOT-89 AMS1117-3.3   | 1        |
 | U2             | Flash SOIC-8 W25Q128JVS             | 1        |
