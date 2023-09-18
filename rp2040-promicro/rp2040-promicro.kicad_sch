@@ -6,7 +6,8 @@
 
   (title_block
     (title "RP-ProMicro")
-    (rev "2.0.0")
+    (date "2023-09-17")
+    (rev "2.0.1")
   )
 
   (lib_symbols
