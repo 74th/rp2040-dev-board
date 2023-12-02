@@ -10,8 +10,8 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 
 ## v1.5.1（WIP）
 
-- 回路図 [PDF](./rp2040-large-semantics-1.5.1.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2Fv1.5.1%2Frp2040-large%2Frp2040-large.kicad_sch)
-- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2Fv1.5.1%2Frp2040-large%2Frp2040-large.kicad_pcb)
+- 回路図 [PDF](./rp2040-large-semantics-1.5.1.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2F1.5.1%2Frp2040-large%2Frp2040-large.kicad_sch)
+- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2F1.5.1%2Frp2040-large%2Frp2040-large.kicad_pcb)
 
 ### features
 
