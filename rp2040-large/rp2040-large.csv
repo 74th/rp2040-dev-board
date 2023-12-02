@@ -1,19 +1,22 @@
-"ID";"指定子";"パッケージ";"数量";"名称";"供給業者、参考資料";
-1;"R6,R3,R7";"Register_0805_2012";3;"1kR";;;
-2;"SW2,SW1";"SKRPABE010";2;"SW_Push";;;
-3;"J1";"USB-C-12-Pin-MidMount-ali-v4";1;"USB2.0_C_v3";;;
-4;"P3,P2";"SC0915-LIKE";2;"20Pin";;;
-5;"U1";"RP2040_hand";1;"RP2040";;;
-6;"C11,C12";"Capacitor_0805_2012";2;"27pF";;;
-7;"J2";"SWD_PIN";1;"SWD";;;
-8;"U2";"W25Q16-128JV-SOIC";1;"W25Q128JVS";;;
-9;"C14,C15";"Capacitor_0805_2012";2;"10uF";;;
-10;"U3";"SOT-223-3_TabPin2";1;"AZ1117-3.3";;;
-11;"Y1";"Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering";1;"Crystal_GND24";;;
-12;"C4,C10,C16,C2,C1,C13,C7,C6,C8";"Capacitor_0805_2012";9;"100nF";;;
-13;"R1,R2";"Register_0805_2012";2;"27.4R";;;
-14;"R9";"Register_0805_2012";1;"200R";;;
-15;"R4,R5";"Register_0805_2012";2;"5.1kR";;;
-16;"C9,C5,C3";"Capacitor_0805_2012";3;"1uF";;;
-17;"R10";"Register_0805_2012";1;"1R";;;
-18;"R8";"Register_0805_2012";1;"10kR";;;
+"Reference","Value","Footprint","Function","MPN","数量"
+"C1, C4","10u","74th:Capacitor_0805_2012","","","2"
+"C2, C3","27p","74th:Capacitor_0805_2012","","","2"
+"C5, C7, C10","1u","74th:Capacitor_0805_2012","","","3"
+"C6, C8, C9, C11-C16","100n","74th:Capacitor_0805_2012","","","9"
+"CH1","RasperryPiPico PinOut","74th:PinOut_RaspberryPiPico","","","1"
+"CH2","SWD","74th:PinOut_SWD_3Pin","","","1"
+"D1","RED","74th:LED_0805_2012","","","1"
+"D2","BLUE","74th:LED_0805_2012","","","1"
+"J1","217179-0001","74th:Connector_USB-C-Receptacle_SMT_12-Pin_MidMount_Simple","","","1"
+"R1, R11","1k","74th:Register_0805_2012","","","2"
+"R2, R3, R7","5.1k","74th:Register_0805_2012","","","3"
+"R4, R5","27.4","74th:Register_0805_2012","","","2"
+"R6, R10","10k","74th:Register_0805_2012","","","2"
+"R8","1R","74th:Register_0805_2012","","","1"
+"R9","200","74th:Register_0805_2012","","","1"
+"SW1, SW2","SW_Push","74th:PushButton_SKRPABE010","-- ミックスされた値 --","","2"
+"U1","CH213K","74th:Package_SOT-23","","","1"
+"U2","AMS1117-3.3","74th:Package_SOT-89-3","","","1"
+"U3","W25Q32JVS","74th:Package_SOIC-8_5.23x5.23mm_P1.27mm","","","1"
+"U4","RP2040","74th:Package_QFN-54-1EP_7x7mm_P0.4mm_EP3.1x3.1mm_hand","","C2040","1"
+"Y1","12M","74th:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering","","","1"
