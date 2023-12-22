@@ -6,7 +6,7 @@ Raspberry Pi PICO と同じピンレイアウトで、Flash を好きなサイ�
 
 RP2040 の実装の際には、細く切ったマスキングテープを使って位置合わせをしてから、実装すると成功率が上がります。
 
-<img src="./photo1.png" width="24.5%" /> <img src="./photo2.png" width="24.5%" /> <img src="./photo3.png" width="24.5%" /> <img src="./photo4.png" width="24.5%" />
+<img src="./photo1.jpg" width="33%" /> <img src="./photo2.jpg" width="33%" /> <img src="./photo3.jpg" width="33%" />
 
 ## v1.5.2
 
@@ -46,7 +46,7 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 ## v1.4.0
 
 - 回路図 [PDF](./rp2040-large-semantics-1.4.0.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2Fv1.4.0%2Frp2040-large%2Frp2040-large.kicad_sch)
-- PCB [PDF](./rp2040-large-pcb-1.4.0.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2Fv1.4.0%2Frp2040-large%2Frp2040-large.kicad_pcb)
+- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-large%2Fv1.4.0%2Frp2040-large%2Frp2040-large.kicad_pcb)
 
 | ID                         | package                             | Value   | Num |
 | -------------------------- | ----------------------------------- | ------- | --- |
@@ -90,8 +90,8 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 
 [../parts/README.md](../parts/README.md)
 
-## RP2040手はんだ実装挑戦指南ガイド
+## RP2040 手はんだ実装挑戦指南ガイド
 
-74thの実装ノウハウをまとめたガイドを用意しています。初めて挑戦される方はぜひおよみください。
+74th の実装ノウハウをまとめたガイドを用意しています。初めて挑戦される方はぜひおよみください。
 
 https://docs.google.com/document/d/1oHzV6qEClttqfrnbo-PlUElAemhTQe8-u3ijAKLZYF0/edit#heading=h.1b8zdysibsw9
