@@ -15,7 +15,7 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 
 ### features
 
-- USB 電源保護 IC として CH213K を追加
+- USB 電源保護 IC として [CH213K](https://www.wch-ic.com/products/CH213.html) を追加
 
 ### BOM
 
