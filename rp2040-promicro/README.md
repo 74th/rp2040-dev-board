@@ -18,7 +18,7 @@
 | C1, C4, C7-C12 | Capacitor 0805 100nF              | 8        |
 | C2, C3         | Capacitor 0805 10uF               | 2        |
 | C5, C6         | Capacitor 0805 1uF                | 2        |
-| C13, C14       | Capacitor 0805 27pF               | 2        |
+| C13, C14       | Capacitor 0805 10-27pF            | 2        |
 | F1             | PolyFuse 1812 KT6-1100SMDI        | 1        |
 | J1             | USB Type-C Receptacle             | 1        |
 | R1, R4, R5     | Register 0805 1kΩ                 | 3        |
