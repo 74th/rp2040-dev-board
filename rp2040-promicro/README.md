@@ -1,4 +1,4 @@
-# RP2040 Pro Micro ピンアウト開発ボード
+# RP2040 Pro Micro ピンアウト開発ボード \[74th-012\]
 
 発注用ガーバーファイルは [release page](https://github.com/74th/rp2040-dev-board/releases) を確認ください。
 
