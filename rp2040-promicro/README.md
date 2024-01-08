@@ -24,7 +24,7 @@
 | R1, R4, R5     | Register 0805 1kΩ                 | 3        |
 | R2, R3         | Register 0805 5.1kΩ               | 2        |
 | R6             | Register 0805 10kΩ                | 1        |
-| R7, R8         | Register 0805 27.4Ω               | 2        |
+| R7, R8         | Register 0805 10-27Ω              | 2        |
 | SW1            | Button SKRPABE010                 | 1        |
 | U1             | Regulator 3.3V SOT-89 AMS1117-3.3 | 1        |
 | U2             | Flash SOIC-8 W25Q128JVS           | 1        |
