@@ -8,7 +8,7 @@
   - ☆ PIMORONI https://shop.pimoroni.com/products/rp2040?variant=39345229299795
   - スイッチサイエンス https://www.switch-science.com/products/7173
   - マルツオンライン https://www.marutsu.co.jp/pc/i/2230443/
-  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gI-17056/
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/g117056/
   - ☆ LCSC https://www.lcsc.com/product-detail/C2040.html
 - SPI FLASH W25Q32JV
   - ☆ AliExpress https://ja.aliexpress.com/item/32727772232.html
@@ -29,12 +29,12 @@
   - ☆ TaoBao https://item.taobao.com/item.htm?id=10191700128
 - 3225 クリスタル 12MHz
   - ☆ AliExpress https://ja.aliexpress.com/item/1005002359133404.html
-  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-05225/
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/g105225/
   - LCSC https://www.lcsc.com/product-detail/C9002.html など
   - ☆ TaoBao https://item.taobao.com/item.htm?id=681160536821
 - SOT-223 3.3V レギュレータ AMS1117（Pico 型 1.4.0 まで、ProMicro 型 1.1.0 まで）
   - ☆ AliExpress https://ja.aliexpress.com/item/4000187767118.html
-  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gI-11194/
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/g111194/
   - LCSC https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_MSKSEMI-AMS1117-3-3V_C5120796.html
   - ☆ TaoBao https://item.taobao.com/item.htm?id=35642195030
 - SOT-89 3.3V レギュレータ AMS1117（Pico 型 1.5.2 以降、ProMicro 型 2.0.0 以降）
@@ -44,7 +44,7 @@
   - ☆ TaoBao https://item.taobao.com/item.htm?id=634687833717
 - スイッチ
   - ☆ AliExpress https://ja.aliexpress.com/item/4000555847543.html
-  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gP-06185/
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/g1006185/
   - LCSC https://www.lcsc.com/product-detail/C2689510.html
   - ☆ TaoBao https://item.taobao.com/item.htm?id=618991813706
 - USB Type-C ソケット ミッドマウントタイプ（Pico 型、ProMicro 型 1.1.0 以前）
@@ -52,7 +52,7 @@
   - マルツオンライン https://www.marutsu.co.jp/pc/i/40730718/
   - LCSC https://www.lcsc.com/product-detail/C428463.html
 - USB Type-C ソケット 表面実装タイプ（ProMicro 型 2.0.0 以降）
-  - 秋月電子通商 https://akizukidenshi.com/catalog/g/gC-14356/
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/g114356/
   - LCSC https://www.lcsc.com/product-detail/C2765186.html
   - ☆ TaoBao https://item.taobao.com/item.htm?id=619399335978 (TYPEC 母座 16P 4 脚 插板 编带)
 - 1812 6V 1.1A リセッタブルヒューズ（ProMicro 型 2.0.0 以降）
