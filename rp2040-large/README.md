@@ -30,7 +30,7 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 | J1                  | USB Type-C Receptacle                 | 1        |
 | R1, R11             | Register 0805 1kΩ                     | 2        |
 | R2, R3, R7          | Register 0805 5.1kΩ                   | 3        |
-| R4, R5              | Register 0805 27.4Ω                   | 2        |
+| R4, R5              | Register 0805 27Ω                     | 2        |
 | R6, R10             | Register 0805 10kΩ                    | 2        |
 | R8                  | Register 0805 1RΩ                     | 1        |
 | R9                  | Register 0805 200Ω                    | 1        |
