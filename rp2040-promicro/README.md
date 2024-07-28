@@ -8,10 +8,13 @@
 
 - Booth キット販売ページ [https://74th.booth.pm/items/4492441](https://74th.booth.pm/items/4492441)
 
-## 2.0.1
+## 2.0.1-2
+
+2.0.2 は KiCad 8.0 で出力し直したもので、2.0.1 と差異はありません。
 
 - 回路図: [PDF](rp2040-promicro-v2.0.1-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-promicro%2F2.0.1%2Frp2040-promicro%2Frp2040-promicro.kicad_sch)
-- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-promicro%2F2.0.1%2Frp2040-promicro%2Frp2040-promicro.kicad_pcb)
+- PCB 2.0.1 [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-promicro%2F2.0.1%2Frp2040-promicro%2Frp2040-promicro.kicad_pcb)
+- PCB 2.0.2 [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2040-promicro%2F2.0.2%2Frp2040-promicro%2Frp2040-promicro.kicad_pcb)
 
 | Reference      | Name                              | Quantity |
 | -------------- | --------------------------------- | -------- |
@@ -84,9 +87,8 @@
 | 15   | 1   | U3                                   | AZ1117-3.3        | Regulator_Linear:AZ1117-3.3        | rp2040-dev-board:Regulator-AMS1117-SOT-223            | https://www.diodes.com/assets/Datasheets/AZ1117.pdf                              |
 | 16   | 1   | Y1                                   | Crystal_GND24     | Device:Crystal_GND24               | Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering | ~                                                                                |
 
+## RP2040 手はんだ実装挑戦指南ガイド
 
-## RP2040手はんだ実装挑戦指南ガイド
-
-74thの実装ノウハウをまとめたガイドを用意しています。初めて挑戦される方はぜひおよみください。
+74th の実装ノウハウをまとめたガイドを用意しています。初めて挑戦される方はぜひおよみください。
 
 https://docs.google.com/document/d/1oHzV6qEClttqfrnbo-PlUElAemhTQe8-u3ijAKLZYF0/edit#heading=h.1b8zdysibsw9
