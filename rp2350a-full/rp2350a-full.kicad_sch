@@ -8126,7 +8126,7 @@
 		)
 		(uuid "d288b553-cfa2-462d-9857-ccd9dab0d7db")
 	)
-	(label "RESET"
+	(label "RUN"
 		(at 294.64 185.42 180)
 		(fields_autoplaced yes)
 		(effects
