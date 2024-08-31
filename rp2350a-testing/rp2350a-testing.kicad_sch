@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "ffc4b957-b2ef-47f3-ae20-92553c1c6642")
 	(paper "A3")
+	(title_block
+		(rev "1.0.1")
+	)
 	(lib_symbols
 		(symbol "74th_ApplicationIC:W25Q32JVUU-FLASH"
 			(exclude_from_sim no)
