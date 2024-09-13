@@ -2,8 +2,8 @@
 
 ## v1.0.1
 
-- 回路図 [PDF](./rp2350a-full_v1.0.1_semantics.pdf) [kicanvas]()
-- PCB [kicanvas]()
+- 回路図 [PDF](./rp2350a-full_v1.0.1_semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2350-full%2F1.0.1%2Frp2350a-full%2Frp2350a-full.kicad_sch)
+- PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2350-full%2F1.0.1%2Frp2350a-full%2Frp2350a-full.kicad_pcb)
 
 ### BOM
 
