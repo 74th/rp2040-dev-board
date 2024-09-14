@@ -1,5 +1,7 @@
 # RP2350A 手はんだ実装挑戦ボード
 
+<img src="./photo_v1.0.0_1.jpg" width="40%"><img src="./photo_v1.0.0_2.jpg" width="40%">
+
 ## v1.0.1
 
 - 回路図 [PDF](./rp2350a-full_v1.0.1_semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2350-full%2F1.0.1%2Frp2350a-full%2Frp2350a-full.kicad_sch)
@@ -7,29 +9,29 @@
 
 ### BOM
 
-| Reference                                 | Name                                  | Quantity |
-| ----------------------------------------- | ------------------------------------- | -------- |
-| C1,C9,C10,C11,C12,C13,C14,C15,C16,C17,C19 | Capacitor 0603 0.1uF                  | 11       |
-| C2,C3,C4,C18                              | Capacitor 0603 4.7uF                  | 4        |
-| C5,C6                                     | Capacitor 0603 10pF                   | 2        |
-| C7,C8                                     | Capacitor 0603 10uF                   | 2        |
-| D1                                        | LED 0805 Blue                         | 1        |
-| J1                                        | USB Type-C Receptacle                 | 1        |
-| J2                                        | Box Pin Header 2x5 Pitch 1.27mm       | 1        |
-| L1                                        | Inductor 0806 3.3uH                   | 1        |
-| R1                                        | Register 0603 200Ω                    | 1        |
-| R2                                        | Register 0603 1Ω                      | 1        |
-| R3,R4                                     | Register 0603 27Ω                     | 2        |
-| R5                                        | Register 0603 33Ω                     | 1        |
-| R6,R10                                    | Register 0603 1kΩ                     | 2        |
-| R7,R8                                     | Register 0603 5.1kΩ                   | 2        |
-| R9,R11                                    | Register 0603 10kΩ                    | 2        |
-| SW1,SW2                                   | Button SKRPABE010                     | 2        |
-| U1                                        | MCU Raspberry Pi RP2350A              | 1        |
-| U2                                        | USB Power Protection IC SOT-23 CH213K | 1        |
-| U3                                        | Regulator 3.3V SOT-89 AMS1117-3.3     | 1        |
-| U4                                        | Flash SOIC-8 W25Q32JVUU               | 1        |
-| Y1                                        | Crystal 3225 12MHz                    | 1        |
+| Reference    | Name                              | Package         | Quantity |
+| ------------ | --------------------------------- | --------------- | -------- |
+| C1,C9-17,C19 | Capacitor 0.1uF                   | SMD I0603 M1608 | 11       |
+| C2-4,C18     | Capacitor 4.7uF                   | SMD I0603 M1608 | 4        |
+| C5-6         | Capacitor 10pF                    | SMD I0603 M1608 | 2        |
+| C7-8         | Capacitor 10uF                    | SMD I0603 M1608 | 2        |
+| D1           | LED Blue                          | SMD I0805 M2012 | 1        |
+| J1           | USB Type-C Receptacle             |                 | 1        |
+| J2           | Box Pin Header 2x5 Pitch 1.27mm   | TH              | 1        |
+| L1           | Inductor 3.3uH                    | SMD I0806 M2016 | 1        |
+| R1           | Register 200Ω                     | SMD I0603 M1608 | 1        |
+| R2           | Register 1Ω                       | SMD I0603 M1608 | 1        |
+| R3-4         | Register 27Ω                      | SMD I0603 M1608 | 2        |
+| R5           | Register 33Ω                      | SMD I0603 M1608 | 1        |
+| R6,R10       | Register 1kΩ                      | SMD I0603 M1608 | 2        |
+| R7-8         | Register 5.1kΩ                    | SMD I0603 M1608 | 2        |
+| R9,R11       | Register 10kΩ                     | SMD I0603 M1608 | 2        |
+| SW1-2        | Button SKRPABE010                 |                 | 2        |
+| U1           | MCU Raspberry Pi RP2350A          | QFN56           | 1        |
+| U2           | USB Power Protection IC CH213K    | SOT-23          | 1        |
+| U3           | Regulator 3.3V SOT-89 AMS1117-3.3 | SOT-90          | 1        |
+| U4           | Flash W25Q32JVUU                  | USON-8          | 1        |
+| Y1           | Crystal 12MHz                     | SMD 3225        | 1        |
 
 ## 実装の手順
 
