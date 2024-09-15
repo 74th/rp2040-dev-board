@@ -9,7 +9,7 @@
 
 ### Pin Map
 
-![Pin Map](./rp2350a-full_v1.0.1_pinmap.png)
+![Pin Map](./rp2350a-full_v1.0.1_pinmap.jpg)
 
 ### BOM
 
