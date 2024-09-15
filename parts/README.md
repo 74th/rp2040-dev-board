@@ -5,33 +5,33 @@
 ☆ 印はキット同梱品の調達先
 
 - RP2040
-  - ☆ PIMORONI https://shop.pimoroni.com/products/rp2040?variant=39345229299795
+  - ☆ DigiKey https://www.digikey.jp/ja/products/detail/raspberry-pi/SC0914-7/14306009
+  - PIMORONI https://shop.pimoroni.com/products/rp2040?variant=39345229299795
   - スイッチサイエンス https://www.switch-science.com/products/7173
   - マルツオンライン https://www.marutsu.co.jp/pc/i/2230443/
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/g117056/
-  - ☆ LCSC https://www.lcsc.com/product-detail/C2040.html
-- SPI FLASH W25Q32JV
-  - ☆ AliExpress https://ja.aliexpress.com/item/32727772232.html
+  - LCSC https://www.lcsc.com/product-detail/C2040.html
+- SPI FLASH W25Q32JVSS
   - マルツオンライン https://www.marutsu.co.jp/pc/i/29020236/
-  - LCSC https://www.lcsc.com/product-detail/C179173.html
-  - ☆ TaoBao https://item.taobao.com/item.htm?id=580344507211
+  - DigiKey https://www.digikey.jp/ja/products/detail/winbond-electronics/W25Q32JVSSIQ/5803981
+  - ☆ LCSC https://www.lcsc.com/product-detail/C179173.html
+- SPI FLASH W25Q32JVUU
+  - ☆ LCSC https://www.lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q32JVUUIQ_C2999380.html
 - 0805/2012 レジスタ
-  - ☆ AliExpress https://ja.aliexpress.com/item/1005001794062302.html
   - マルツオンライン https://www.marutsu.co.jp/pc/i/856912/
-  - LCSC: Package 0805 で絞り込んでください https://www.lcsc.com/products/Chip-Resistor-Surface-Mount_439.html
-  - ☆ TaoBao https://item.taobao.com/item.htm?id=41307854370
+  - TaoBao https://item.taobao.com/item.htm?id=41307854370
+  - ☆ LCSC: Package 0805 で絞り込んでください https://www.lcsc.com/products/Chip-Resistor-Surface-Mount_439.html
 - 0805/2102 キャパシタ
-  - ☆ AliExpress https://ja.aliexpress.com/item/32964553793.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/contents2/capnavi.aspx
   - マルツオンライン https://www.marutsu.co.jp/RatedList.jsp?goodsClassCode1=16&goodsClassCode2=0039&goodsClassCode3=0006&rv13=0805%EF%BC%882012%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E6%B3%95%EF%BC%89&shopNo=3
-  - LCSC Package 0805 で絞り込んでください https://www.lcsc.com/products/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_313.html
-  - ☆ TaoBao https://item.taobao.com/item.htm?id=522577176099
-  - ☆ TaoBao https://item.taobao.com/item.htm?id=10191700128
+  - ☆ LCSC Package 0805 で絞り込んでください https://www.lcsc.com/products/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_313.html
+  - TaoBao https://item.taobao.com/item.htm?id=522577176099
+  - TaoBao https://item.taobao.com/item.htm?id=10191700128
 - 3225 クリスタル 12MHz
-  - ☆ AliExpress https://ja.aliexpress.com/item/1005002359133404.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/g105225/
-  - LCSC https://www.lcsc.com/product-detail/C9002.html など
-  - ☆ TaoBao https://item.taobao.com/item.htm?id=681160536821
+  - ☆ LCSC https://www.lcsc.com/product-detail/C9002.html など
+  - AliExpress https://ja.aliexpress.com/item/1005002359133404.html
+  - TaoBao https://item.taobao.com/item.htm?id=681160536821
 - SOT-223 3.3V レギュレータ AMS1117（Pico 型 1.4.0 まで、ProMicro 型 1.1.0 まで）
   - ☆ AliExpress https://ja.aliexpress.com/item/4000187767118.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/g111194/
@@ -43,14 +43,15 @@
   - LCSC https://www.lcsc.com/product-detail/C5120796.html
   - ☆ TaoBao https://item.taobao.com/item.htm?id=634687833717
 - スイッチ
-  - ☆ AliExpress https://ja.aliexpress.com/item/4000555847543.html
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/g1006185/
-  - LCSC https://www.lcsc.com/product-detail/C2689510.html
-  - ☆ TaoBao https://item.taobao.com/item.htm?id=618991813706
+  - ☆ LCSC https://www.lcsc.com/product-detail/C2689510.html
+  - TaoBao https://item.taobao.com/item.htm?id=618991813706
+  - AliExpress https://ja.aliexpress.com/item/4000555847543.html
 - USB Type-C ソケット ミッドマウントタイプ（Pico 型、ProMicro 型 1.1.0 以前）
-  - ☆ AliExpress https://ja.aliexpress.com/item/32998900371.html
+  - AliExpress https://ja.aliexpress.com/item/32998900371.html
   - マルツオンライン https://www.marutsu.co.jp/pc/i/40730718/
   - LCSC https://www.lcsc.com/product-detail/C428463.html
+  - ☆ TaoBao https://item.taobao.com/item.htm?id=619399335978 (TYPEC 母座 16P 4 脚 插板 编带)
 - USB Type-C ソケット 表面実装タイプ（ProMicro 型 2.0.0 以降）
   - 秋月電子通商 https://akizukidenshi.com/catalog/g/g114356/
   - LCSC https://www.lcsc.com/product-detail/C2765186.html
@@ -59,6 +60,7 @@
   - マルツオンライン https://www.marutsu.co.jp/pc/i/35540640/
   - LCSC https://www.lcsc.com/product-detail/C210834.html
   - ☆ TaoBao https://item.taobao.com/item.htm?id=555353746767
-- CH213 USB 電源保護 IC、理想ダイオード（Pico 型 1.5.2 以降）
+- CH213K USB 電源保護 IC、理想ダイオード（Pico 型 1.5.2 以降）
   - ☆ Aliexpress WCH Official Shop https://ja.aliexpress.com/item/1005005619632155.html?gatewayAdapt=glo2jpn
+  - 秋月電子通商 https://akizukidenshi.com/catalog/g/g129462/
   - TaoBao https://item.taobao.com/item.htm?id=741731017655
