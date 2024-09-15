@@ -7,6 +7,10 @@
 - 回路図 [PDF](./rp2350a-full_v1.0.1_semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2350-full%2F1.0.1%2Frp2350a-full%2Frp2350a-full.kicad_sch)
 - PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Frp2040-dev-board%2Fblob%2Frp2350-full%2F1.0.1%2Frp2350a-full%2Frp2350a-full.kicad_pcb)
 
+### Pin Map
+
+![Pin Map](./rp2350a-full_v1.0.1_pinmap.png)
+
 ### BOM
 
 | Reference    | Name                              | Package         | Quantity |
@@ -43,7 +47,8 @@
    https://docs.google.com/document/d/1oHzV6qEClttqfrnbo-PlUElAemhTQe8-u3ijAKLZYF0/edit#heading=h.1b8zdysibsw9 にまとめています。
 2. USB Type-C: 受動部品実装前の方が、ランドを用いた疎通チェックがやりやすいため。[実装チェックツール](https://74th.booth.pm/items/5812941)を使うと便利です。
 3. DCDC 用インダクタ(L1): 付近に囲むように他の部品があるため、先に実装します。
-4. W25Q32VSS(U4): 裏面に流すためのランドがあり、その付近に受動部品があり、後から実装が難しいため。
+4. W25Q32VSS(U4): 裏面パッドに流すためのランドがあり、その付近に受動部品があり、後から実装が難しいため。
+   - 裏面パッドのランドは他の部分より熱が伝わりにくいです。はんだが吸い込まれるまで、十分に加熱してください。
 5. AMS1117-3.3(U3): 近くに CH213 があり、実装しにくいため。
 6. CH213(U2)
 7. 他の抵抗(R1-11)、キャパシタ(C1-19)、水晶発振器(Y1)、LED(D1)
