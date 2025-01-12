@@ -17,7 +17,7 @@
 | ------------ | --------------------------------- | --------------- | -------- |
 | C1,C9-17,C19 | Capacitor 0.1uF                   | SMD I0603 M1608 | 11       |
 | C2-4,C18     | Capacitor 4.7uF                   | SMD I0603 M1608 | 4        |
-| C5-6         | Capacitor 10pF                    | SMD I0603 M1608 | 2        |
+| C5-6         | Capacitor 7-33pF                    | SMD I0603 M1608 | 2        |
 | C7-8         | Capacitor 10uF                    | SMD I0603 M1608 | 2        |
 | D1           | LED Blue                          | SMD I0805 M2012 | 1        |
 | J1           | USB Type-C Receptacle             |                 | 1        |
