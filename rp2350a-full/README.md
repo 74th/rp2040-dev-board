@@ -23,13 +23,13 @@
 | J1           | USB Type-C Receptacle             |                 | 1        |
 | J2           | Box Pin Header 2x5 Pitch 1.27mm   | TH              | 1        |
 | L1           | Inductor 3.3uH                    | SMD I0806 M2016 | 1        |
-| R1           | Register 200Ω                     | SMD I0603 M1608 | 1        |
-| R2           | Register 1Ω                       | SMD I0603 M1608 | 1        |
-| R3-4         | Register 27Ω                      | SMD I0603 M1608 | 2        |
-| R5           | Register 33Ω                      | SMD I0603 M1608 | 1        |
-| R6,R10       | Register 1kΩ                      | SMD I0603 M1608 | 2        |
-| R7-8         | Register 5.1kΩ                    | SMD I0603 M1608 | 2        |
-| R9,R11       | Register 10kΩ                     | SMD I0603 M1608 | 2        |
+| R1           | Resistor 200Ω                     | SMD I0603 M1608 | 1        |
+| R2           | Resistor 1Ω                       | SMD I0603 M1608 | 1        |
+| R3-4         | Resistor 27Ω                      | SMD I0603 M1608 | 2        |
+| R5           | Resistor 33Ω                      | SMD I0603 M1608 | 1        |
+| R6,R10       | Resistor 1kΩ                      | SMD I0603 M1608 | 2        |
+| R7-8         | Resistor 5.1kΩ                    | SMD I0603 M1608 | 2        |
+| R9,R11       | Resistor 10kΩ                     | SMD I0603 M1608 | 2        |
 | SW1-2        | Button SKRPABE010                 |                 | 2        |
 | U1           | MCU Raspberry Pi RP2350A          | QFN56           | 1        |
 | U2           | USB Power Protection IC CH213K    | SOT-23          | 1        |

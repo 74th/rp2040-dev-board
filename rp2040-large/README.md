@@ -28,12 +28,12 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 | D1                  | LED 0805 RED                          | 1        |
 | D2                  | LED 0805 BLUE                         | 1        |
 | J1                  | USB Type-C Receptacle                 | 1        |
-| R1, R11             | Register 0805 1kΩ                     | 2        |
-| R2, R3, R7          | Register 0805 5.1kΩ                   | 3        |
-| R4, R5              | Register 0805 27Ω                     | 2        |
-| R6, R10             | Register 0805 10kΩ                    | 2        |
-| R8                  | Register 0805 1RΩ                     | 1        |
-| R9                  | Register 0805 200Ω                    | 1        |
+| R1, R11             | Resistor 0805 1kΩ                     | 2        |
+| R2, R3, R7          | Resistor 0805 5.1kΩ                   | 3        |
+| R4, R5              | Resistor 0805 27Ω                     | 2        |
+| R6, R10             | Resistor 0805 10kΩ                    | 2        |
+| R8                  | Resistor 0805 1RΩ                     | 1        |
+| R9                  | Resistor 0805 200Ω                    | 1        |
 | SW1, SW2            | Button SKRPABE010                     | 2        |
 | U1                  | USB Power Protection IC SOT-23 CH213K | 1        |
 | U2                  | Regulator 3.3V SOT-89 AMS1117-3.3     | 1        |
@@ -54,13 +54,13 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 | C3,C5,C9                   | 0805in 2012mm SMD Capacitor         | 1uF     | 3   |
 | C11,C12                    | 0603in 1608mm SMD Capacitor         | 27pF    | 2   |
 | C14,C15                    | 0805in 2012mm SMD Capacitor         | 10uF    | 2   |
-| R1,R2                      | 0805in 2012mm SMD Register          | 27.4R   | 2   |
-| R3,R6                      | 0805in 2012mm SMD Register          | 1kR     | 2   |
-| R7                         | 0805in 2012mm SMD Register          | 1kR(NC) | 1   |
-| R4,R5                      | 0805in 2012mm SMD Register          | 5.1kR   | 2   |
-| R8                         | 0805in 2012mm SMD Register          | 10kR    | 1   |
-| R9                         | 0805in 2012mm SMD Register          | 200R    | 1   |
-| R10                        | 0805in 2012mm SMD Register          | 1R      | 1   |
+| R1,R2                      | 0805in 2012mm SMD Resistor          | 27.4R   | 2   |
+| R3,R6                      | 0805in 2012mm SMD Resistor          | 1kR     | 2   |
+| R7                         | 0805in 2012mm SMD Resistor          | 1kR(NC) | 1   |
+| R4,R5                      | 0805in 2012mm SMD Resistor          | 5.1kR   | 2   |
+| R8                         | 0805in 2012mm SMD Resistor          | 10kR    | 1   |
+| R9                         | 0805in 2012mm SMD Resistor          | 200R    | 1   |
+| R10                        | 0805in 2012mm SMD Resistor          | 1R      | 1   |
 | U1                         | RP2040                              |         | 1   |
 | U2                         | W25Q32BVSSIG                        |         | 1   |
 | U3                         | AMS 1117-3.3V                       |         | 1   |
@@ -76,10 +76,10 @@ RP2040 の実装の際には、細く切ったマスキングテープを使っ�
 | C3,C5                      | 0805in 2012mm SMD Capacitor         | 1uF   | 2   |
 | C11,C12                    | 0603in 1608mm SMD Capacitor         | 27pF  | 2   |
 | C14,C15                    | 0805in 2012mm SMD Capacitor         | 10uF  | 2   |
-| R1,R2                      | 0805in 2012mm SMD Register          | 27.4R | 2   |
-| R3,R6,R7                   | 0805in 2012mm SMD Register          | 1kR   | 2   |
-| R4,R5                      | 0805in 2012mm SMD Register          | 5.1kR | 2   |
-| R8                         | 0805in 2012mm SMD Register          | 10kR  | 1   |
+| R1,R2                      | 0805in 2012mm SMD Resistor          | 27.4R | 2   |
+| R3,R6,R7                   | 0805in 2012mm SMD Resistor          | 1kR   | 2   |
+| R4,R5                      | 0805in 2012mm SMD Resistor          | 5.1kR | 2   |
+| R8                         | 0805in 2012mm SMD Resistor          | 10kR  | 1   |
 | U1                         | RP2040                              |       | 1   |
 | U2                         | W25Q32BVSSIG                        |       | 1   |
 | U3                         | AMS 1117-3.3V                       |       | 1   |
