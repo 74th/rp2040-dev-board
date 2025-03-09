@@ -4,6 +4,8 @@
 
 - [Raspberry PI PICO と同じピン配置で、Flush のサイズを変えたいために、作った開発ボード rp2040 large board](./rp2040-large/)
 - [ProMicro ピンアウト開発ボード rp2040 pro micro](./rp2040-promicro/)
+- [RP2350の全てのピンを引き足した開発ボード（位置決め治具対応） RP2350A-Full](./rp2350a-full/)
+- [RP2040の手はんだ実装支援用位置決め治具 RP2040 Solder Supporter](./rp2040-supporter/)
 - [完成後のチェック用に使うファームウェア](rp2040-io-tester/) [rp2040-io-tester.uf2](rp2040-io-tester/rp2040-io-tester.uf2)
 - [部品の調達先](./parts/)
 
