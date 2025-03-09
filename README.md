@@ -13,9 +13,9 @@
 
 https://docs.google.com/document/d/1oHzV6qEClttqfrnbo-PlUElAemhTQe8-u3ijAKLZYF0/edit#heading=h.1b8zdysibsw9
 
-## 使用し、取り込んでいる Kicad ライブラリ
+## 使用しているシンボル、フットプリントライブラリ
 
-- https://datasheets.raspberrypi.com/rp2040/Minimal-KiCAD.zip
+https://github.com/74th/my-kicad-parts
 
 ## LICENSE
 
