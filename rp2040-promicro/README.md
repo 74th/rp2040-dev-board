@@ -24,10 +24,10 @@
 | C13, C14       | Capacitor 0805 10-27pF            | 2        |
 | F1             | PolyFuse 1812 KT6-1100SMDI        | 1        |
 | J1             | USB Type-C Receptacle             | 1        |
-| R1, R4, R5     | Register 0805 1kΩ                 | 3        |
-| R2, R3         | Register 0805 5.1kΩ               | 2        |
-| R6             | Register 0805 10kΩ                | 1        |
-| R7, R8         | Register 0805 10-27Ω              | 2        |
+| R1, R4, R5     | Resistor 0805 1kΩ                 | 3        |
+| R2, R3         | Resistor 0805 5.1kΩ               | 2        |
+| R6             | Resistor 0805 10kΩ                | 1        |
+| R7, R8         | Resistor 0805 10-27Ω              | 2        |
 | SW1            | Button SKRPABE010                 | 1        |
 | U1             | Regulator 3.3V SOT-89 AMS1117-3.3 | 1        |
 | U2             | Flash SOIC-8 W25Q128JVS           | 1        |
@@ -77,10 +77,10 @@
 | 5    | 1   | J2                                   | ProMicro-LeftPin  | rp2040-dev-board:ProMicro-LeftPin  | rp2040-dev-board:LeftPin                              |                                                                                  |
 | 6    | 1   | J3                                   | ProMicro-RightPin | rp2040-dev-board:ProMicro-RightPin | rp2040-dev-board:RightPin                             |                                                                                  |
 | 7    | 1   | P1                                   | USB2.0_C_12pin    | rp2040-dev-board:USB2.0_C_12pin    | rp2040-dev-board:USB-C-12-Pin-MidMount-ali-v2         | https://www.usb.org/sites/default/files/documents/usb_type-c.zip                 |
-| 8    | 2   | R1, R2                               | 27.4R             | Device:R                           | rp2040-dev-board:Register_0805_2012                   | ~                                                                                |
-| 9    | 2   | R3, R7                               | 1kR               | Device:R                           | rp2040-dev-board:Register_0805_2012                   | ~                                                                                |
-| 10   | 2   | R4, R5                               | 5.1kR             | Device:R                           | rp2040-dev-board:Register_0805_2012                   | ~                                                                                |
-| 11   | 1   | R6                                   | 10kR              | Device:R                           | rp2040-dev-board:Register_0805_2012                   | ~                                                                                |
+| 8    | 2   | R1, R2                               | 27.4R             | Device:R                           | rp2040-dev-board:Resistor_0805_2012                   | ~                                                                                |
+| 9    | 2   | R3, R7                               | 1kR               | Device:R                           | rp2040-dev-board:Resistor_0805_2012                   | ~                                                                                |
+| 10   | 2   | R4, R5                               | 5.1kR             | Device:R                           | rp2040-dev-board:Resistor_0805_2012                   | ~                                                                                |
+| 11   | 1   | R6                                   | 10kR              | Device:R                           | rp2040-dev-board:Resistor_0805_2012                   | ~                                                                                |
 | 12   | 1   | SW1                                  | SW_Push           | Switch:SW_Push                     | rp2040-dev-board:BOOT                                 | ~                                                                                |
 | 13   | 1   | U1                                   | RP2040            | rp2040-dev-board:RP2040            | rp2040-dev-board:RP2040_hand                          |                                                                                  |
 | 14   | 1   | U2                                   | W25Q128JVS        | Memory_Flash:W25Q128JVS            | rp2040-dev-board:W25Q16-128JV-SOIC                    | http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf |
